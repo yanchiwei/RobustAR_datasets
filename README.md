@@ -14,5 +14,5 @@ This repository contains two flight delay datasets used in the paper [Robust air
  - `N1_original_route.csv`, `N2_original_route.csv` contain the original aircraft route used by the airline.
  
 ## Minimum Turn Time
- - Network 1 (N1), 20 minutes
- - Network 2 (N2), 30 minutes
+ - Network 1 (N1), 30 minutes
+ - Network 2 (N2), 20 minutes
